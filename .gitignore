@@ -1,0 +1,64 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Logs
+*.log
+
+## Temporary files
+*.tmp
+*.temp
+*.bak
+*.ncb
+*.cache
+*.dbmdl
+
+## NuGet
+*.nupkg
+packages/
+*.snupkg
+
+## Docker artifacts
+*.tar
+*.env
+docker-compose.override.yml
+
+## Secrets or local configs (if used)
+secrets.json
+
+## Global JSON
+global.json
+
+## Terraform (if any)
+*.tfstate
+*.tfstate.*
+
+## Kubernetes (optional, depending on use)
+.kube/
+
+## YAML backups or swap files
+*~
+*.swp
+
+## Others
+Thumbs.db
+Desktop.ini
