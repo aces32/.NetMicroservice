@@ -15,7 +15,7 @@ This project is a hands-on microservices architecture built with ASP.NET Core. I
 - RabbitMQ
 - Docker & Docker Compose
 - Kubernetes (K8s)
-- MongoDB & PostgreSQL
+- MSSQL
 - Entity Framework Core
 
 ## Services
