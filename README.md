@@ -13,7 +13,7 @@ This project is a hands-on microservices architecture built with ASP.NET Core. I
 - ASP.NET Core (.NET 8)
 - gRPC
 - RabbitMQ
-- Docker & Docker Compose
+- Docker
 - Kubernetes (K8s)
 - MSSQL
 - Entity Framework Core
@@ -27,5 +27,3 @@ This project is a hands-on microservices architecture built with ASP.NET Core. I
 
 To run the project locally:
 
-```bash
-docker-compose up --build
