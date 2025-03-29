@@ -1,6 +1,6 @@
 # .NET Microservices with gRPC, RabbitMQ & Kubernetes
 
-This project is a hands-on microservices architecture built with ASP.NET Core, inspired by [Les Jackson's YouTube course](https://www.youtube.com/watch?v=DgVjEo3OGBI). It demonstrates key concepts including:
+This project is a hands-on microservices architecture built with ASP.NET Core. It demonstrates key concepts including:
 
 - Service-to-service communication via **gRPC**
 - **Asynchronous messaging** with **RabbitMQ**
